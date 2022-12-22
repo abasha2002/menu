@@ -74,7 +74,7 @@ body{
 
 .img3{
     width: 208px;
-    height: 322px;
+    height: 335px;
     margin-left: 9px;
 }
 
@@ -86,6 +86,7 @@ body{
     line-height: 24px;
     color: #000000;
     margin-top: 0px;
+    margin-bottom: 20px;;
 }
 
 .dishes h2{
@@ -108,5 +109,6 @@ body{
 
     margin-top: 0px;
     margin-bottom: 8px;
+    margin-right: 0px;
     width: 175px;
 }
