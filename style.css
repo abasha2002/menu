@@ -1,0 +1,100 @@
+@font-face {
+    font-family: 'Inter';
+    src: url("./fonts/Inter-Regular.ttf");
+}
+
+body{
+    background-color: white;
+}
+.img1{
+    width: 647px;
+    height: 323px;
+    margin-top: 20px;
+    margin-left: 415px;
+    margin-right: 378px;
+}
+
+.info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img2{
+    width: 171px;
+    height: 222px;
+    margin-left: 514px;
+    margin-top: 29px;
+    margin-right: 13px;
+}
+
+.about h1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 15px;
+    color: #000000;
+
+    margin-top: 29px;
+    margin-right: 476px;
+}
+
+.text1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    color: #000000;
+
+
+    margin-right: 534px;
+}
+
+.line{
+    width: 392px;
+    height: 1px;
+    margin-left: 514px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: #F1F1F1;
+}
+
+.menu{
+    display: flex;
+    margin-left: 514px;
+}
+
+.img3{
+    width: 208px;
+    height: 360px;
+    margin-left: 9px;
+}
+
+.menu h1{
+    margin: 0px;
+}
+
+.menu h2{
+    margin-bottom: 0px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    color: #000000;
+}
+
+.menu p{
+    margin-top: 0px;
+    margin-bottom: 8px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #000000;
+}
