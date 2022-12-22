@@ -64,3 +64,49 @@ body{
     margin-right: 534px;
     margin-bottom: 29px;
 }
+
+.menu{
+    display: flex;
+
+    margin-left: 514px;
+    margin-right: 534px;
+}
+
+.img3{
+    width: 208px;
+    height: 322px;
+    margin-left: 9px;
+}
+
+.heading2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+    margin-top: 0px;
+}
+
+.dishes h2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    color: #000000;
+    margin: 0px;
+}
+
+.dishes p{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #000000;
+
+    margin-top: 0px;
+    margin-bottom: 8px;
+    width: 175px;
+}
