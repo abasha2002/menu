@@ -12,7 +12,6 @@ body{
 .img1{
     display: flex;
     justify-content: center;
-    align-items: center;
 }
 
 .main_img{
@@ -23,7 +22,6 @@ body{
 .info{
     display: flex;
     justify-content: center;
-    align-items: center;
 
     margin-top: 29px;
 }
@@ -59,10 +57,9 @@ body{
     margin: 0px;
 }
 
-.divv{
+.div_line{
     display: flex;
     justify-content: center;
-    align-items: center;
 
     margin-top: 33px;
     margin-bottom: 29px;
@@ -75,7 +72,6 @@ body{
 .menu{
     display: flex;
     justify-content: center;
-    align-items: center;
 }
 
 .img3{
