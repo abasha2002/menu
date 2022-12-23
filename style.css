@@ -5,23 +5,27 @@
 
 body{
     background-color: white;
+    
 }
 
+
 .img1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main_img{
     width: 647px;
     height: 323px;
-
-    margin-left: 415px;
-    margin-top: 20px;
-    margin-right: 378px;
 }
 
 .info{
     display: flex;
+    justify-content: center;
+    align-items: center;
 
-    margin-left: 514px;
     margin-top: 29px;
-    margin-right: 534px;
 }
 
 .img2{
@@ -55,21 +59,23 @@ body{
     margin: 0px;
 }
 
+.divv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-top: 33px;
+    margin-bottom: 29px;
+}
 .line{
     border: 1px solid #E9E9E9;
     width: 392px;
-    
-    margin-left: 514px;
-    margin-top: 33px;
-    margin-right: 534px;
-    margin-bottom: 29px;
 }
 
 .menu{
     display: flex;
-
-    margin-left: 514px;
-    margin-right: 534px;
+    justify-content: center;
+    align-items: center;
 }
 
 .img3{
